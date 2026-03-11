@@ -3,9 +3,10 @@
   "description": "Generate cinematic video descriptions and storyboards, and call Azure OpenAI Sora-2 to produce videos.",
   "version": "1.0.0",
   "author": {
-    "name": ""
+    "name": "Qifeng Hou",
+    "url": "https://github.com/nickhou1983"
   },
-  "repository": "",
+  "repository": "https://github.com/nickhou1983/qifeng-plugins",
   "license": "MIT",
   "keywords": [
     "video-generation",

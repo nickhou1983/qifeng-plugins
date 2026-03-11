@@ -1,0 +1,20 @@
+{
+  "name": "qifeng-plugins",
+  "metadata": {
+    "description": "A collection of GitHub Copilot plugins for cinematic video generation and AI-powered creative workflows",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "owner": {
+    "name": "Qifeng Hou",
+    "email": "nickhou1983@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "author",
+      "source": "author",
+      "description": "Generate cinematic video descriptions and storyboards, and call Azure OpenAI Sora-2 to produce videos.",
+      "version": "1.0.0"
+    }
+  ]
+}

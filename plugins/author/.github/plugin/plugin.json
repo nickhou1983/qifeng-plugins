@@ -1,0 +1,24 @@
+{
+  "name": "author",
+  "description": "Generate cinematic video descriptions and storyboards, and call Azure OpenAI Sora-2 to produce videos.",
+  "version": "1.0.0",
+  "author": {
+    "name": ""
+  },
+  "repository": "",
+  "license": "MIT",
+  "keywords": [
+    "video-generation",
+    "sora",
+    "azure-openai",
+    "cinematic",
+    "storyboard",
+    "text-to-video",
+    "prompt-writing",
+    "copilot-cli"
+  ],
+  "skills": [
+    "./skills/author",
+    "./skills/video-gen"
+  ]
+}

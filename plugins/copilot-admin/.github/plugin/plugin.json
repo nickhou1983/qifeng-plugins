@@ -1,0 +1,25 @@
+{
+  "name": "copilot-admin",
+  "description": "Query GitHub Copilot license allocation and billing costs for Organizations and Enterprises.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Qifeng Hou",
+    "url": "https://github.com/nickhou1983"
+  },
+  "repository": "https://github.com/nickhou1983/qifeng-plugins",
+  "license": "MIT",
+  "keywords": [
+    "github-copilot",
+    "copilot-admin",
+    "license-management",
+    "billing",
+    "cost-forecast",
+    "seat-count",
+    "organization",
+    "enterprise"
+  ],
+  "skills": [
+    "./skills/seat-count",
+    "./skills/cost-forecast"
+  ]
+}

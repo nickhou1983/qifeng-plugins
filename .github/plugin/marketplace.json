@@ -15,6 +15,12 @@
       "source": "author",
       "description": "Generate cinematic video descriptions and storyboards, and call Azure OpenAI Sora-2 to produce videos.",
       "version": "1.0.0"
+    },
+    {
+      "name": "copilot-admin",
+      "source": "copilot-admin",
+      "description": "Query GitHub Copilot license allocation and billing costs for Organizations and Enterprises.",
+      "version": "1.0.0"
     }
   ]
 }

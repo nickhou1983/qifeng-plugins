@@ -21,6 +21,12 @@
       "source": "copilot-admin",
       "description": "Query GitHub Copilot license allocation and billing costs for Organizations and Enterprises.",
       "version": "1.0.0"
+    },
+    {
+      "name": "plugin-creator",
+      "source": "plugin-creator",
+      "description": "Scaffold new GitHub Copilot Plugins with correct directory structure, plugin metadata, SKILL.md, README, and optional Python scripts.",
+      "version": "1.0.0"
     }
   ]
 }

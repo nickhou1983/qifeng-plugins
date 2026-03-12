@@ -1,0 +1,22 @@
+{
+  "name": "plugin-creator",
+  "description": "Scaffold new GitHub Copilot Plugins with correct directory structure, plugin metadata, SKILL.md, README, and optional Python scripts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Qifeng Hou",
+    "url": "https://github.com/nickhou1983"
+  },
+  "repository": "https://github.com/nickhou1983/qifeng-plugins",
+  "license": "MIT",
+  "keywords": [
+    "github-copilot",
+    "plugin-scaffold",
+    "plugin-creator",
+    "skill-generator",
+    "code-generation",
+    "meta-plugin"
+  ],
+  "skills": [
+    "./skills/create-plugin"
+  ]
+}

@@ -1,0 +1,4 @@
+httpx
+tiktoken
+pyyaml
+python-dotenv

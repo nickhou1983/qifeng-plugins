@@ -1,0 +1,23 @@
+{
+  "name": "llmperf",
+  "description": "Benchmark LLM latency metrics including TTFT (Time To First Token), TTFR (Time To First Reasoning), and TPS (Tokens Per Second).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Qifeng Hou",
+    "url": "https://github.com/nickhou1983"
+  },
+  "repository": "https://github.com/nickhou1983/qifeng-plugins",
+  "license": "MIT",
+  "keywords": [
+    "github-copilot",
+    "llm-benchmark",
+    "ttft",
+    "ttfr",
+    "latency",
+    "streaming",
+    "performance-testing"
+  ],
+  "skills": [
+    "./skills/ttft-ttfr-testing"
+  ]
+}

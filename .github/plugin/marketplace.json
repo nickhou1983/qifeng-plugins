@@ -27,6 +27,12 @@
       "source": "plugin-creator",
       "description": "Scaffold new GitHub Copilot Plugins with correct directory structure, plugin metadata, SKILL.md, README, and optional Python scripts.",
       "version": "1.0.0"
+    },
+    {
+      "name": "llmperf",
+      "source": "llmperf",
+      "description": "Benchmark LLM latency metrics including TTFT (Time To First Token), TTFR (Time To First Reasoning), and TPS (Tokens Per Second).",
+      "version": "1.0.0"
     }
   ]
 }
